@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.153613a5.chunk.css",
-    "main.js": "./static/js/main.47e999b9.chunk.js",
-    "main.js.map": "./static/js/main.47e999b9.chunk.js.map",
+    "main.css": "./static/css/main.0cbd9304.chunk.css",
+    "main.js": "./static/js/main.e829bc50.chunk.js",
+    "main.js.map": "./static/js/main.e829bc50.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.23a3178f.js",
     "runtime-main.js.map": "./static/js/runtime-main.23a3178f.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "./static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2df1b760.chunk.js": "./static/js/2.2df1b760.chunk.js",
-    "static/js/2.2df1b760.chunk.js.map": "./static/js/2.2df1b760.chunk.js.map",
+    "static/js/2.8722f16a.chunk.js": "./static/js/2.8722f16a.chunk.js",
+    "static/js/2.8722f16a.chunk.js.map": "./static/js/2.8722f16a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.dcce7282d35c0b3ab2ab05e76542f3bd.js": "./precache-manifest.dcce7282d35c0b3ab2ab05e76542f3bd.js",
+    "precache-manifest.9ca7728fe7aa151bae547ae25def4d0b.js": "./precache-manifest.9ca7728fe7aa151bae547ae25def4d0b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "./static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.153613a5.chunk.css.map": "./static/css/main.153613a5.chunk.css.map",
-    "static/js/2.2df1b760.chunk.js.LICENSE.txt": "./static/js/2.2df1b760.chunk.js.LICENSE.txt",
-    "static/media/1161745-312x231.jpg": "./static/media/1161745-312x231.2b95350e.jpg",
-    "static/media/icons8_delete.ico": "./static/media/icons8_delete.0527b4b9.ico",
-    "static/media/icons8_pot.ico": "./static/media/icons8_pot.12bd97a8.ico",
-    "static/media/icons8_soup_plate_32.png": "./static/media/icons8_soup_plate_32.5f844aae.png",
-    "static/media/icons8_stopwatch.ico": "./static/media/icons8_stopwatch.a3803f26.ico",
-    "static/media/kisspng-angus-cattle-kebab-hamburger-take-out-pizza-beef-burger-5ad848f1a59fd3.9041058515241238896784.png": "./static/media/kisspng-angus-cattle-kebab-hamburger-take-out-pizza-beef-burger-5ad848f1a59fd3.9041058515241238896784.04b5130b.png"
+    "static/css/main.0cbd9304.chunk.css.map": "./static/css/main.0cbd9304.chunk.css.map",
+    "static/js/2.8722f16a.chunk.js.LICENSE.txt": "./static/js/2.8722f16a.chunk.js.LICENSE.txt",
+    "static/media/carrotLogo.svg": "./static/media/carrotLogo.f2581a8d.svg",
+    "static/media/facebook.svg": "./static/media/facebook.514a9a45.svg",
+    "static/media/google.svg": "./static/media/google.54b27c3d.svg",
+    "static/media/icons8_github2.ico": "./static/media/icons8_github2.b8ad81fa.ico",
+    "static/media/icons8_linkedin_circled.ico": "./static/media/icons8_linkedin_circled.741286f2.ico",
+    "static/media/icons8_twitter.ico": "./static/media/icons8_twitter.db584a30.ico",
+    "static/media/kisspng-angus-cattle-kebab-hamburger-take-out-pizza-beef-burger-5ad848f1a59fd3.9041058515241238896784.png": "./static/media/kisspng-angus-cattle-kebab-hamburger-take-out-pizza-beef-burger-5ad848f1a59fd3.9041058515241238896784.04b5130b.png",
+    "static/media/twitter_circled.svg": "./static/media/twitter_circled.eee50f8c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.23a3178f.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2df1b760.chunk.js",
-    "static/css/main.153613a5.chunk.css",
-    "static/js/main.47e999b9.chunk.js"
+    "static/js/2.8722f16a.chunk.js",
+    "static/css/main.0cbd9304.chunk.css",
+    "static/js/main.e829bc50.chunk.js"
   ]
 }
