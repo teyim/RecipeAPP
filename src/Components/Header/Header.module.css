@@ -1,0 +1,45 @@
+.header
+{
+    background-color:#FF798A;
+    box-shadow: 0 7px 30px -10px #ff798bb9 ;   
+}
+.highlight
+{
+    color:#1D1B6E;
+}
+.input
+{
+    padding: 8px;
+    width: 14rem;
+    color:#1D1B6E;
+    border: none;
+    outline: none;
+    background-color: white;
+    box-shadow: 0 7px 30px -10px #1c1b6e3b;
+}
+.btn
+{
+    padding: 8px 13px; 
+    border: none;
+    background-color:#1D1B6E;
+    color:white;
+    box-shadow: 0 7px 30px -10px #1c1b6e5b;
+}
+.logo
+{
+   width: 97%;
+  margin-top: -30px;
+  
+}
+.imagecontainer
+{
+    height: 300px;
+    width: 300px;
+}
+@media only screen and (max-width:320px)
+{
+.input
+{
+    width: 12rem!important;
+}
+}

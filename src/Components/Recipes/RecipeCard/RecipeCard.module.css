@@ -1,0 +1,25 @@
+.card
+{
+    box-shadow: 0 7px 10px -10px hsla(241, 61%, 27%, 0.267);
+    border: 10px solid #b9babb;
+}
+.title
+{
+color: #ebba35;
+font-weight: 600!important;
+}
+.custombtn
+{
+padding: 5px 20px;
+border:none;
+background-color:#FF798A;
+box-shadow: 0 7px 30px -10px #ff798bc5;
+border-radius: 5px;
+color: white;
+font-weight: 500;
+}
+.cardRow
+{
+    overflow-wrap: break-word;
+   
+}
