@@ -1,8 +1,8 @@
+// eslint-disable-next-line 
 import React from 'react';
 import ClassStyles from './Nav.module.css';
-import Logo from '../Logo/Logo';
-import {Container,Row,Col,Navbar,NavDropdown,Nav}from 'react-bootstrap';
-import githubImage from '../../Assets/Images/icons8_github.ico';
+
+import {Container,Navbar,NavDropdown,Nav}from 'react-bootstrap';
 import recipeBookLogo from '../../Assets/Images/carrotLogo.svg';
 
 const navBar=(props)=>(

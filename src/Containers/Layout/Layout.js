@@ -1,12 +1,10 @@
+// eslint-disable-next-line 
 import React, { Component } from 'react';
-import ClassStyles from './Layout.module.css';
-import Nav from '../../Components/Nav/Nav';
 import Header from '../../Components/Header/Header';
 import Aux from '../../Hoc/Auxilliary';
 import Dropdowns from '../../Components/Dropdowns/Dropdowns';
 import Recipes from '../../Components/Recipes/Recipes';
 import axios from 'axios';
-import Backdrop from '../../Components/Backdrop/Backdrop';
 import Modal from '../../Components/Modal/Modal';
 import RecipeInfo from '../../Components/RecipeInfos/RecipeInfo';
 import Footer from '../../Components/Footer/footer';

@@ -1,7 +1,6 @@
 // @flow 
 import * as React from 'react';
 import { Container, Col,Row} from 'react-bootstrap';
-import Logo from '../Logo/Logo';
 import twitterImage from '../../Assets/Images/icons8_twitter.ico';
 import GithubImage from '../../Assets/Images/icons8_github2.ico';
 import LinkedInImage from '../../Assets/Images/icons8_linkedin_circled.ico';
@@ -18,7 +17,7 @@ const Footer = (props) =>(
            <a href><img src={LinkedInImage} alt="social-icons"></img></a>
             </Col>
             <Col xs={12} >
-            <h5 style={{color:'#FF798A'}}><span role='img'>👋</span>Hey there,this website was developed by Teyim<br/>have fun Cooking</h5>
+            <h5 style={{color:'#FF798A'}}><span role='img' aria-label="emoji hand">👋</span>Hey there,this website was developed by Teyim<br/>have fun Cooking</h5>
             </Col>
          </Row>
      </Container>

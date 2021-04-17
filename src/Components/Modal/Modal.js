@@ -1,6 +1,5 @@
 // @flow 
-import React,{useState} from 'react';
-import ClassStyles from './Modal.module.css';
+import React from 'react';
 import Modal from 'react-bootstrap/Modal'
 const ModalPopup = (props) =>{
  
